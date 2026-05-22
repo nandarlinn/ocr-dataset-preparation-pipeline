@@ -92,3 +92,4 @@ dataset/
 ```bash
 xanylabeling
 ```
+![Img-1](https://github.com/nandarlinn/ocr-dataset-preparation-pipeline/blob/main/img/img1.png)
